@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Aditya',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -98,9 +98,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'EndevourOS Forum',
+			icon: 'triangle',
+			link: 'https://forum.endeavouros.com/',
 		},
 		{
 			id: '3',
@@ -116,15 +116,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'Whatsapp',
+			icon: 'message-circle',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'MonkeyType',
+			icon: 'keyboard',
+			link: 'https://monkeytype.com/',
 		},
 	],
 
