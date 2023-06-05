@@ -104,9 +104,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'LibGDX wiki',
+			icon: 'library',
+			link: 'https://libgdx.com/wiki/',
 		},
 		{
 			id: '4',
