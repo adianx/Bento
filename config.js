@@ -14,7 +14,7 @@ const CONFIG = {
 	name: 'Aditya',
 	imageBackground: true,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -98,9 +98,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'EndevourOS Forum',
-			icon: 'triangle',
-			link: 'https://forum.endeavouros.com/',
+			name: 'Kali tools docs',
+			icon: 'swords',
+			link: 'https://www.kali.org/tools/',
 		},
 		{
 			id: '3',
