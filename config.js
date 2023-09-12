@@ -100,8 +100,8 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Kali tools docs',
-			icon: 'swords',
-			link: 'https://www.kali.org/tools/',
+			icon: 'book-open',
+			link: 'https://www.savemyexams.com/members/',
 		},
 		{
 			id: '3',
