@@ -105,9 +105,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'LibGDX wiki',
-			icon: 'library',
-			link: 'https://libgdx.com/wiki/',
+			name: 'Claude',
+			icon: 'bot-message-square',
+			link: 'https://claude.ai/new',
 		},
 		{
 			id: '4',
